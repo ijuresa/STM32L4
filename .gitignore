@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/stm32l4/Debug/APP/subdir.mk
+/stm32l4/Debug/makefile
+/stm32l4/Debug/objects.list
+/stm32l4/Debug/objects.mk
+/stm32l4/Debug/project_settings/subdir.mk
+/stm32l4/Debug/sources.mk
+/stm32l4/Debug/STM32L4.bin
