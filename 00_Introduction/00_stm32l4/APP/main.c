@@ -23,8 +23,8 @@
  **************************************************************************************************
  * @file   main.c
  * @author ivan.juresa
- * @brief  Program will initialize 2 GPIO pins on STM32F4 (LEDs) and turn them ON - OFF with
- *         predefined period.
+ * @brief  Program will initialize 2 GPIO pins on STM32L4 (LEDs) and turn them ON - OFF with
+ *         predefined period using processor blocking FOR loop.
  **************************************************************************************************/
 
 /***************************************************************************************************
